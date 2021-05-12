@@ -1,7 +1,7 @@
 function SMButton(){
     return (
         <div>
-            <button>Click me</button>
+            <button>SM button</button>
         </div>
     )
 }
